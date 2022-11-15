@@ -1,11 +1,12 @@
 import { css } from '@emotion/react';
 
+import Layout from '../../components/Layout/Layout';
+
 const MainPage = ():JSX.Element => {
 	return (
-		<>
-			<p css={P}>하</p>
-            메인페이지
-		</>
+		<Layout>
+			메인페이지
+		</Layout>
 	);
 };
 
