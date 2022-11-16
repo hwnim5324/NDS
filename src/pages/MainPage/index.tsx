@@ -1,5 +1,3 @@
-import { css } from '@emotion/react';
-
 import Layout from '../../components/Layout/Layout';
 
 const MainPage = ():JSX.Element => {
@@ -9,9 +7,5 @@ const MainPage = ():JSX.Element => {
 		</Layout>
 	);
 };
-
-const P = css`
-	font-size: 50px;
-`;
 
 export default MainPage;

@@ -3107,15 +3107,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-resizable@npm:^3.0.3":
-  version: 3.0.3
-  resolution: "@types/react-resizable@npm:3.0.3"
-  dependencies:
-    "@types/react": "*"
-  checksum: 63ca823a8c0670a85c1a07c6783497c15f451955e58e8fa36fed49866cf91be6fd2c6689d225a56ab4ca6a6a2af461f8d57353fdc3897639bc543d153dfa9b7b
-  languageName: node
-  linkType: hard
-
 "@types/react@npm:*, @types/react@npm:^18.0.25":
   version: 18.0.25
   resolution: "@types/react@npm:18.0.25"
@@ -4721,13 +4712,6 @@ __metadata:
     kind-of: ^6.0.2
     shallow-clone: ^3.0.0
   checksum: 770f912fe4e6f21873c8e8fbb1e99134db3b93da32df271d00589ea4a29dbe83a9808a322c93f3bcaf8584b8b4fa6fc269fc8032efbaa6728e0c9886c74467d2
-  languageName: node
-  linkType: hard
-
-"clsx@npm:^1.1.1":
-  version: 1.2.1
-  resolution: "clsx@npm:1.2.1"
-  checksum: 30befca8019b2eb7dbad38cff6266cf543091dae2825c856a62a8ccf2c3ab9c2907c4d12b288b73101196767f66812365400a227581484a05f968b0307cfaf12
   languageName: node
   linkType: hard
 
@@ -9296,7 +9280,6 @@ __metadata:
     "@types/node": ^16.18.3
     "@types/react": ^18.0.25
     "@types/react-dom": ^18.0.8
-    "@types/react-resizable": ^3.0.3
     "@types/testing-library__jest-dom": ^5.14.5
     "@typescript-eslint/eslint-plugin": latest
     "@typescript-eslint/parser": latest
@@ -9306,7 +9289,6 @@ __metadata:
     eslint-plugin-react: latest
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-resizable: ^3.0.4
     react-router-dom: ^6.4.3
     react-scripts: 5.0.1
     typescript: ^4.8.4
@@ -10847,7 +10829,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prop-types@npm:15.x, prop-types@npm:^15.8.1":
+"prop-types@npm:^15.8.1":
   version: 15.8.1
   resolution: "prop-types@npm:15.8.1"
   dependencies:
@@ -11014,19 +10996,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-draggable@npm:^4.0.3":
-  version: 4.4.5
-  resolution: "react-draggable@npm:4.4.5"
-  dependencies:
-    clsx: ^1.1.1
-    prop-types: ^15.8.1
-  peerDependencies:
-    react: ">= 16.3.0"
-    react-dom: ">= 16.3.0"
-  checksum: 21c3775db086e13020967627c20acd41d1ddbc7c7d7fca51491a5bbb54a0aa7e1730a4bc9af17141eb50a4954e547a5e25b2368f5f54b70db6f2686a897bacf2
-  languageName: node
-  linkType: hard
-
 "react-error-overlay@npm:^6.0.11":
   version: 6.0.11
   resolution: "react-error-overlay@npm:6.0.11"
@@ -11059,18 +11028,6 @@ __metadata:
   version: 0.11.0
   resolution: "react-refresh@npm:0.11.0"
   checksum: 112178a05b1e0ffeaf5d9fb4e56b4410a34a73adeb04dbf13abdc50d9ac9df2ada83e81485156cca0b3fa296aa3612751b3d6cd13be4464642a43679b819cbc7
-  languageName: node
-  linkType: hard
-
-"react-resizable@npm:^3.0.4":
-  version: 3.0.4
-  resolution: "react-resizable@npm:3.0.4"
-  dependencies:
-    prop-types: 15.x
-    react-draggable: ^4.0.3
-  peerDependencies:
-    react: ">= 16.3"
-  checksum: cbf86ad04be0f073102489ad25a2ba101779f0f00e580d48e1be73c4057c36a4e8ee8308b020ad3dd91555bb24082ceeef674d5035a38d33a2d43aed192db7fa
   languageName: node
   linkType: hard
 

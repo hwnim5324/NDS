@@ -46,7 +46,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.18.3"],\
             ["@types/react", "npm:18.0.25"],\
             ["@types/react-dom", "npm:18.0.8"],\
-            ["@types/react-resizable", "npm:3.0.3"],\
             ["@types/testing-library__jest-dom", "npm:5.14.5"],\
             ["@typescript-eslint/eslint-plugin", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:5.42.1"],\
             ["@typescript-eslint/parser", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:5.42.1"],\
@@ -56,7 +55,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:7.31.10"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:18.2.0"],\
-            ["react-resizable", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:3.0.4"],\
             ["react-router-dom", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:6.4.3"],\
             ["react-scripts", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:5.0.1"],\
             ["typescript", "patch:typescript@npm%3A4.8.4#~builtin<compat/typescript>::version=4.8.4&hash=701156"],\
@@ -5171,16 +5169,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["@types/react-resizable", [\
-        ["npm:3.0.3", {\
-          "packageLocation": "./.yarn/cache/@types-react-resizable-npm-3.0.3-d90447134f-63ca823a8c.zip/node_modules/@types/react-resizable/",\
-          "packageDependencies": [\
-            ["@types/react-resizable", "npm:3.0.3"],\
-            ["@types/react", "npm:18.0.25"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["@types/resolve", [\
         ["npm:1.17.1", {\
           "packageLocation": "./.yarn/cache/@types-resolve-npm-1.17.1-9a8396bef2-dc6a6df507.zip/node_modules/@types/resolve/",\
@@ -7305,15 +7293,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-plain-object", "npm:2.0.4"],\
             ["kind-of", "npm:6.0.3"],\
             ["shallow-clone", "npm:3.0.1"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["clsx", [\
-        ["npm:1.2.1", {\
-          "packageLocation": "./.yarn/cache/clsx-npm-1.2.1-77792dc182-30befca801.zip/node_modules/clsx/",\
-          "packageDependencies": [\
-            ["clsx", "npm:1.2.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -12807,7 +12786,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.18.3"],\
             ["@types/react", "npm:18.0.25"],\
             ["@types/react-dom", "npm:18.0.8"],\
-            ["@types/react-resizable", "npm:3.0.3"],\
             ["@types/testing-library__jest-dom", "npm:5.14.5"],\
             ["@typescript-eslint/eslint-plugin", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:5.42.1"],\
             ["@typescript-eslint/parser", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:5.42.1"],\
@@ -12817,7 +12795,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:7.31.10"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:18.2.0"],\
-            ["react-resizable", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:3.0.4"],\
             ["react-router-dom", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:6.4.3"],\
             ["react-scripts", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:5.0.1"],\
             ["typescript", "patch:typescript@npm%3A4.8.4#~builtin<compat/typescript>::version=4.8.4&hash=701156"],\
@@ -15523,34 +15500,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["react-draggable", [\
-        ["npm:4.4.5", {\
-          "packageLocation": "./.yarn/cache/react-draggable-npm-4.4.5-f5c4c58302-21c3775db0.zip/node_modules/react-draggable/",\
-          "packageDependencies": [\
-            ["react-draggable", "npm:4.4.5"]\
-          ],\
-          "linkType": "SOFT"\
-        }],\
-        ["virtual:9ea938bbde5b6c9ebb1e5d345573547ff2af4d27c4eab47a57b12968efb77c52d7567bc58225a79ff9edac77378ab5e070be0d6c21c6a8098b83d0d5d89f96bd#npm:4.4.5", {\
-          "packageLocation": "./.yarn/__virtual__/react-draggable-virtual-db7b78a869/0/cache/react-draggable-npm-4.4.5-f5c4c58302-21c3775db0.zip/node_modules/react-draggable/",\
-          "packageDependencies": [\
-            ["react-draggable", "virtual:9ea938bbde5b6c9ebb1e5d345573547ff2af4d27c4eab47a57b12968efb77c52d7567bc58225a79ff9edac77378ab5e070be0d6c21c6a8098b83d0d5d89f96bd#npm:4.4.5"],\
-            ["@types/react", "npm:18.0.25"],\
-            ["@types/react-dom", null],\
-            ["clsx", "npm:1.2.1"],\
-            ["prop-types", "npm:15.8.1"],\
-            ["react", "npm:18.2.0"],\
-            ["react-dom", null]\
-          ],\
-          "packagePeers": [\
-            "@types/react-dom",\
-            "@types/react",\
-            "react-dom",\
-            "react"\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["react-error-overlay", [\
         ["npm:6.0.11", {\
           "packageLocation": "./.yarn/cache/react-error-overlay-npm-6.0.11-021cdeaa92-ce7b44c38f.zip/node_modules/react-error-overlay/",\
@@ -15588,30 +15537,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/react-refresh-npm-0.11.0-c0a4e59e76-112178a05b.zip/node_modules/react-refresh/",\
           "packageDependencies": [\
             ["react-refresh", "npm:0.11.0"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["react-resizable", [\
-        ["npm:3.0.4", {\
-          "packageLocation": "./.yarn/cache/react-resizable-npm-3.0.4-aa39f9db2b-cbf86ad04b.zip/node_modules/react-resizable/",\
-          "packageDependencies": [\
-            ["react-resizable", "npm:3.0.4"]\
-          ],\
-          "linkType": "SOFT"\
-        }],\
-        ["virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:3.0.4", {\
-          "packageLocation": "./.yarn/__virtual__/react-resizable-virtual-9ea938bbde/0/cache/react-resizable-npm-3.0.4-aa39f9db2b-cbf86ad04b.zip/node_modules/react-resizable/",\
-          "packageDependencies": [\
-            ["react-resizable", "virtual:fcf816a8be08c511598cf312d6165a09520ac9655d164e92626b118ba8ced8248639b004fdb3e4bb7d3b98b7310a06925168bd79c7d198d9c87e0c804f3a149c#npm:3.0.4"],\
-            ["@types/react", "npm:18.0.25"],\
-            ["prop-types", "npm:15.8.1"],\
-            ["react", "npm:18.2.0"],\
-            ["react-draggable", "virtual:9ea938bbde5b6c9ebb1e5d345573547ff2af4d27c4eab47a57b12968efb77c52d7567bc58225a79ff9edac77378ab5e070be0d6c21c6a8098b83d0d5d89f96bd#npm:4.4.5"]\
-          ],\
-          "packagePeers": [\
-            "@types/react",\
-            "react"\
           ],\
           "linkType": "HARD"\
         }]\
